@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/-@kenevy-%23181717?style=flat-square&logo=github)](https://github.com/kenevy)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=chengzi.run&url=https%3A%2F%2Fxlbd.me)](http://www.chengzi.run)
-
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=kenevy.github.io&url=https%3A%2F%2Fxlbd.me)](https://kenevy.github.io)
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
