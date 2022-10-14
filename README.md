@@ -24,4 +24,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![kenevy's github stats](https://github-readme-stats.vercel.app/api?username=kenevy&show_icons=true&theme=dracula)
+![kenevy's github stats](https://github-readme-stats.vercel.app/api?username=kenevy&show_icons=true&theme=dracula&cout_private=true)
