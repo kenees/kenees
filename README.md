@@ -21,6 +21,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=sass&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-%23F7DF1C?style=flat-square&logo=sass&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-%23F7DF1C?style=flat-square&logo=sass&logoColor=ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
